@@ -1,0 +1,1 @@
+In the project, I will create a webpage that displays some recipes to the world and learn more about writing meaningful github commit messages in the meanwhile. I will then later add some CSS to the page in order to enhance its appearance.
